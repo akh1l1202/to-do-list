@@ -1,2 +1,3 @@
 # to-do-list
-Personal To-Do List application using HTML, JavaScript and CSS.
+A basic personal To-Do List web-application using HTML, JavaScript,CSS and Python.
+
